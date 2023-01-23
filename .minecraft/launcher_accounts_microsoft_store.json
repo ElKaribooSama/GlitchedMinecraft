@@ -1,0 +1,48 @@
+{
+  "accounts" : {
+    "5f272399badd4698bb9683382bd813d8" : {
+      "accessToken" : "",
+      "accessTokenExpiresAt" : "2023-01-24T18:02:41Z",
+      "avatar" : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUBSURBVHhe7VlNbxtFGH5n115/xKHpoUQRKohDhfiQCkiROJdI/AEuIMGBC1wQgjP8AOAACA78AnrhCgdoOSNVIHIAqRQJtRyqUARRm8T2ej94ntmxYu/O2rEn0ES7T/T40Xp23n3nnZn3HW/U1Q/fSaUEaZpKeLev1QallAQPdLTaMK+/K47j+Z7RyqIOgNHKog6A0cqiDoDR5ZGkkpaQbScdTgFgfR3uDWR4r28n2v6rM8BxwX0FcICzeMJR5wCjlUUdAKOVRR0Ao5VFHQCjlUUdAKOVRR0Ao5XFzADwXavnKfHUCSV885UHtZNt86CuvP926U+2JEnk7792tZ5IIAhBr136WpzfBlGmZVBfvfuGNQCM8N5gIJ9/863sQ8secr9R5leCn+K9dkte39qCtvW1DZ71N7yhfuExGskApJ5EDsJwBkeCkczE3BzACJ9qZkMpRV0FjFYWdQCMWsFcGMeRxFGRkVGFCjmLSZLqDLwU0ddmc5KTvhQI32FmJtTX79nLIBPIATLpF9d+hI4QqVw6wWWcxHL7YAfOwhML2Ods3C72PSIS5PB//IFWGzwcdDa66+J7PmbLfGnAPt2gKS9vPgsNdEWzQV39wH4QYodmtycXX3pTAmiaOwz5yped/h3Z/PKS/Anl9SRilcoaBv/JnS2tCa4XgZcq2cXg3zp3RauP60nEaSwPds7JtRe/k3UoryehcBIMD/Zk+/KnMoJyQm3A5KDBSjTCyEpvVTqdrnRXelNsdTuysroqSRs3tuBQjhJgFqCtZlPaIHURjvvQBm0V7IN8Nn2gL3n/6DN95xj0ArSOEcdpNNmBCeMqyM/8JHhE5j7Uy89CTrrey7jQthYg+7CvXjgl5LNnHdPpO23p+0tQVwGjlUUdgKlzs5XlMWIbs/3UxhwT38dQbYN/BbtzaPrQRlki4LPn+Vewm6M3wi8qG6Mo0+H+XRn19yXcvzfFuH8gI+gZpORe0pYzOfZQ+tbQFsFGOAqXIvvSBm0V7FPRRh/ifh8+7U2RPtN32hiPxUb12WsvMJwFMHs2Gg155OFHpeE3dMzzSHEA2h3u6WydB6PLh9/45YY+qeGbrOHIyJ5/4YkL0kA51Nk8Bx6EzrbW9LuLIrB6cBL8/dav+vn0xwb10SuXrAEgfN+X8+sbUCwz611Kmh6KtGVwWGB6Fr//+Sf9u33x4WdniOeefFqCJk5ydgf0adQGjjeKY7m58wcCYb+HmJ0DcANPVHovUQtUqNeoxXCuQOzP7PRn7NjszyL6sO/YjvUZoN0vTNjYZ/7Z7BvWVcBoZVEHwOjSwDYq7CtN3ZbtZBdM2rLRFc4BCMNIhiHOC3ki87OtpHwcEWlmH7ZszwhBV6iPX32+1EMfWfT8xkNa82D06cAP27+h3LHOmoYc0kbIz+xiYWCWI5bZIngsCJoN2bz4uASB/ZzAEnnz9q3SUkm4r4CS2SHZpj1dFug7237ktL4I9ySo96J9j+LD3OSAnM1DHo959wCcctQBMFpZuAcAiYp5jlk4T3yYmxyQs3nI4zHvHIAmSlEraOhSlCfbnDIV+gZ8OwxbNrIMuubBpc8BY4xQiqyA83zhsH39ui5lzNyLgLPMwT/z2FM6kLbZpkUd5BL8L+cA28yTLTgWYGW4ASsANvT/CmgzRz7HFc4BKO5NQ92W3eOCQ1s5+4aucE+Cpxx1AIxWFnUAjFYUIv8CvhhL750aAPQAAAAASUVORK5CYII=",
+      "azureToken" : "",
+      "eligibleForMigration" : false,
+      "hasMultipleProfiles" : false,
+      "inForcedMigration" : false,
+      "legacy" : false,
+      "licenseProductIds" : 
+      [
+        "9P427LFN9KCD",
+        "9P5KH0238TPW",
+        "9P4BFQNXLMDR",
+        "9NZ12RV7B7R3",
+        "9P5JQ1XPRGN6",
+        "9PBP71DDVCT9",
+        "9P4HCS6S5C2K",
+        "9N5KX36SQJ9Q",
+        "9N6184JJ7NSG",
+        "9NBLGGH2JHXJ",
+        "9P0WDBKKS7MK",
+        "9PKCNQ57B2JG",
+        "9P1XF6ZQGV3R",
+        "9P45BPZCP004",
+        "9P2VR3K66TJX",
+        "9NGG3CWJMC7V",
+        "9P8MK4NC0LJB",
+        "9PB1LJZFN9XK"
+      ],
+      "licenseRequestId" : "547ff883-8dda-4bc5-9cef-b2127e76931f",
+      "localId" : "5f272399badd4698bb9683382bd813d8",
+      "minecraftProfile" : {
+        "id" : "10e39625f6e5442d8e99790819d09121",
+        "name" : "El_Kariboo_sama"
+      },
+      "persistent" : true,
+      "remoteId" : "2535455425992661",
+      "type" : "Xbox",
+      "userProperites" : [],
+      "username" : "CatchyFriend721"
+    }
+  },
+  "activeAccountLocalId" : "5f272399badd4698bb9683382bd813d8",
+  "mojangClientToken" : ""
+}

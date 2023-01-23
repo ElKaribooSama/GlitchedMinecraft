@@ -1,0 +1,10 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 12687058319518835788,
+  "formatVersion" : 0,
+  "locale" : "en-GB",
+  "productLibraryDir" : "C:\\Users\\tsuna\\AppData\\Local\\Mojang\\products",
+  "useArm64JreIfSupported" : false,
+  "version" : 2
+}

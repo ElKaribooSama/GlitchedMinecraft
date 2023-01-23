@@ -1,0 +1,5 @@
+[0123/190239.852:INFO:main_context.cpp(130)] CEF initialized successfully.
+[0123/190239.852:INFO:main_context.cpp(132)] CEF version: 99.2.14+g3f796b8+chromium-99.0.4844.84
+[0123/190440.283:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0123/190602.075:WARNING:frame_host_impl.cc(533)] SendProcessMessage sent to detached mainframe 21474836481 [5,1] will be ignored
+[0123/190602.088:ERROR:shared_buffer_dispatcher.cc(192)] Invalid serialized shared buffer dispatcher (invalid num_bytes?)
